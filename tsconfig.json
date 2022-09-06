@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "ES6",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true,
+      "moduleResolution": "Node",
+      "allowSyntheticDefaultImports": true,
+      "jsx": "react",
+      "resolveJsonModule": true
+    }
+  }
